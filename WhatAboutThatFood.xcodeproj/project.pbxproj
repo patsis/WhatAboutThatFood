@@ -13,6 +13,7 @@
 		4A59E2F4239078BA008E0659 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A59E2F3239078BA008E0659 /* Assets.xcassets */; };
 		4A59E2F7239078BA008E0659 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A59E2F6239078BA008E0659 /* Preview Assets.xcassets */; };
 		4A59E2FA239078BA008E0659 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A59E2F8239078BA008E0659 /* LaunchScreen.storyboard */; };
+		4A59E30223970DEF008E0659 /* NutrientInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A59E30123970DEF008E0659 /* NutrientInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4A59E2F6239078BA008E0659 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A59E2F9239078BA008E0659 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A59E2FB239078BA008E0659 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A59E30123970DEF008E0659 /* NutrientInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NutrientInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4A59E2ED239078B3008E0659 /* AppDelegate.swift */,
 				4A59E2EF239078B3008E0659 /* SceneDelegate.swift */,
 				4A59E2F1239078B3008E0659 /* ContentView.swift */,
+				4A59E30123970DEF008E0659 /* NutrientInfo.swift */,
 				4A59E2F3239078BA008E0659 /* Assets.xcassets */,
 				4A59E2F8239078BA008E0659 /* LaunchScreen.storyboard */,
 				4A59E2FB239078BA008E0659 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				4A59E2EE239078B3008E0659 /* AppDelegate.swift in Sources */,
 				4A59E2F0239078B3008E0659 /* SceneDelegate.swift in Sources */,
+				4A59E30223970DEF008E0659 /* NutrientInfo.swift in Sources */,
 				4A59E2F2239078B3008E0659 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
