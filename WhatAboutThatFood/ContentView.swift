@@ -6,23 +6,6 @@
 //  Copyright © 2019 Harry Patsis. All rights reserved.
 //
 
-// edemam
-//  WhatAboutThatFood
-//  Application ID
-//    f80bf181
-//  Application Keys
-//    af4aa5c6e16a51de77a7105023e806b8
-// ------------------------------------------
-// FoodData Central
-//  Api Key
-//    hzgFl9NDcQJRskvQ8x3xmVlG9tR3VgE9hnaf4OWU
-// -------------------------------------------
-// Nutritionix
-//  App ID
-//    e7fc8726
-//  App Key
-//    d4df5dcfae0496ad98e99da5f4baba4d
-
 import SwiftUI
 
 
